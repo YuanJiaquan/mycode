@@ -1,0 +1,151 @@
+2021-06-07 21:54:10,219 excel_webkey.py INFO  open  访问URLhttp://39.98.138.157/shopxo/index.php
+2021-06-07 21:54:16,285 excel_webkey.py INFO  locator  正在定位link text元素，元素值为登录
+2021-06-07 21:54:17,216 excel_webkey.py INFO  locator  正在定位name元素，元素值为accounts
+2021-06-07 21:54:17,291 excel_webkey.py INFO  locator  正在定位name元素，元素值为pwd
+2021-06-07 21:54:17,368 excel_webkey.py INFO  locator  正在定位xpath元素，元素值为//button[text()="登录"]
+2021-06-07 21:54:17,415 excel_webkey.py INFO  locator  正在定位link text元素，元素值为退出
+2021-06-07 21:54:20,344 excel_webkey.py INFO  sleep  等待5秒
+2021-06-07 21:56:23,695 excel_webkey.py INFO  open  访问URLhttp://39.98.138.157/shopxo/index.php
+2021-06-07 21:56:29,659 excel_webkey.py INFO  locator  正在定位link text元素，元素值为登录
+2021-06-07 21:56:30,657 excel_webkey.py INFO  locator  正在定位name元素，元素值为accounts
+2021-06-07 21:56:30,741 excel_webkey.py INFO  locator  正在定位name元素，元素值为pwd
+2021-06-07 21:56:30,831 excel_webkey.py INFO  locator  正在定位xpath元素，元素值为//button[text()="登录"]
+2021-06-07 21:56:30,880 excel_webkey.py INFO  locator  正在定位link text元素，元素值为退出
+2021-06-07 21:56:33,389 excel_webkey.py INFO  sleep  等待5秒
+2021-06-07 22:11:57,991 webkey.py INFO  open  访问URLhttp://39.98.138.157/shopxo/
+2021-06-07 22:12:05,057 webkey.py INFO  locator  正在定位link text元素，元素值为登录
+2021-06-07 22:12:06,152 webkey.py INFO  locator  正在定位name元素，元素值为accounts
+2021-06-07 22:12:06,223 webkey.py INFO  locator  正在定位name元素，元素值为pwd
+2021-06-07 22:12:06,296 webkey.py INFO  locator  正在定位xpath元素，元素值为/html/body/div[4]/div/div[2]/div[2]/form/div[3]/button
+2021-06-07 22:15:44,119 excel_webkey.py INFO  open  访问URLhttp://39.98.138.157/shopxo/index.php
+2021-06-07 22:15:50,305 excel_webkey.py INFO  locator  正在定位link text元素，元素值为登录
+2021-06-07 22:15:51,795 excel_webkey.py INFO  locator  正在定位name元素，元素值为accounts
+2021-06-07 22:15:51,864 excel_webkey.py INFO  locator  正在定位name元素，元素值为pwd
+2021-06-07 22:15:51,943 excel_webkey.py INFO  locator  正在定位xpath元素，元素值为//button[text()="登录"]
+2021-06-07 22:15:51,994 excel_webkey.py INFO  locator  正在定位link text元素，元素值为退出
+2021-06-07 22:15:56,834 excel_webkey.py INFO  sleep  等待5秒
+2021-06-08 13:48:21,044 excel_webkey.py INFO  open  访问URLhttp://39.98.138.157/shopxo/index.php
+2021-06-08 13:48:27,503 excel_webkey.py INFO  locator  正在定位link text元素，元素值为登录
+2021-06-08 13:48:28,628 excel_webkey.py INFO  locator  正在定位name元素，元素值为accounts
+2021-06-08 13:48:28,697 excel_webkey.py INFO  locator  正在定位name元素，元素值为pwd
+2021-06-08 13:48:28,767 excel_webkey.py INFO  locator  正在定位xpath元素，元素值为//button[text()="登录"]
+2021-06-08 13:48:28,810 excel_webkey.py INFO  locator  正在定位link text元素，元素值为退出
+2021-06-08 13:48:31,387 excel_webkey.py INFO  sleep  等待5秒
+2021-06-08 13:48:40,395 webkey.py INFO  open  访问URLhttp://39.98.138.157/shopxo/
+2021-06-08 13:48:46,439 webkey.py INFO  locator  正在定位link text元素，元素值为登录
+2021-06-08 13:48:55,267 webkey.py INFO  locator  正在定位name元素，元素值为accounts
+2021-06-08 13:48:55,346 webkey.py INFO  locator  正在定位name元素，元素值为pwd
+2021-06-08 13:48:55,427 webkey.py INFO  locator  正在定位xpath元素，元素值为/html/body/div[4]/div/div[2]/div[2]/form/div[3]/button
+2021-06-08 16:08:45,624 webkey.py INFO  open  访问URLhttp://www.jd.com
+2021-06-08 16:08:46,681 webkey.py INFO  locator  正在定位id元素，元素值为key
+2021-06-08 16:08:48,999 webkey.py INFO  open  访问URLhttp://www.jd.com
+2021-06-08 16:08:50,014 webkey.py INFO  locator  正在定位id元素，元素值为key
+2021-06-08 16:08:52,380 webkey.py INFO  open  访问URLhttp://www.jd.com
+2021-06-08 16:08:53,502 webkey.py INFO  locator  正在定位id元素，元素值为key
+2021-06-08 16:18:22,015 excel_webkey.py INFO  open  访问URLhttp://39.98.138.157/shopxo/index.php
+2021-06-08 16:18:28,110 excel_webkey.py INFO  locator  正在定位link text元素，元素值为登录
+2021-06-08 16:18:29,077 excel_webkey.py INFO  locator  正在定位name元素，元素值为accounts
+2021-06-08 16:18:29,150 excel_webkey.py INFO  locator  正在定位name元素，元素值为pwd
+2021-06-08 16:18:29,224 excel_webkey.py INFO  locator  正在定位xpath元素，元素值为//button[text()="登录"]
+2021-06-08 16:18:29,272 excel_webkey.py INFO  locator  正在定位link text元素，元素值为退出
+2021-06-08 16:18:32,311 excel_webkey.py INFO  sleep  等待5秒
+2021-06-08 16:18:41,351 webkey.py INFO  open  访问URLhttp://39.98.138.157/shopxo/
+2021-06-08 16:18:47,785 webkey.py INFO  locator  正在定位link text元素，元素值为登录
+2021-06-08 16:18:48,892 webkey.py INFO  locator  正在定位name元素，元素值为accounts
+2021-06-08 16:18:48,968 webkey.py INFO  locator  正在定位name元素，元素值为pwd
+2021-06-08 16:18:49,053 webkey.py INFO  locator  正在定位xpath元素，元素值为/html/body/div[4]/div/div[2]/div[2]/form/div[3]/button
+2021-06-08 16:18:55,721 webkey.py INFO  open  访问URLhttp://www.jd.com
+2021-06-08 16:18:57,798 webkey.py INFO  locator  正在定位id元素，元素值为key
+2021-06-08 16:19:00,184 webkey.py INFO  open  访问URLhttp://www.jd.com
+2021-06-08 16:19:01,142 webkey.py INFO  locator  正在定位id元素，元素值为key
+2021-06-08 16:19:03,465 webkey.py INFO  open  访问URLhttp://www.jd.com
+2021-06-08 16:19:04,513 webkey.py INFO  locator  正在定位id元素，元素值为key
+2021-06-08 16:20:41,473 excel_webkey.py INFO  open  访问URLhttp://39.98.138.157/shopxo/index.php
+2021-06-08 16:20:47,686 excel_webkey.py INFO  locator  正在定位link text元素，元素值为登录
+2021-06-08 16:20:48,786 excel_webkey.py INFO  locator  正在定位name元素，元素值为accounts
+2021-06-08 16:20:48,855 excel_webkey.py INFO  locator  正在定位name元素，元素值为pwd
+2021-06-08 16:20:48,938 excel_webkey.py INFO  locator  正在定位xpath元素，元素值为//button[text()="登录"]
+2021-06-08 16:20:48,986 excel_webkey.py INFO  locator  正在定位link text元素，元素值为退出
+2021-06-08 16:20:52,292 excel_webkey.py INFO  sleep  等待5秒
+2021-06-08 16:21:00,906 webkey.py INFO  open  访问URLhttp://39.98.138.157/shopxo/
+2021-06-08 16:21:06,929 webkey.py INFO  locator  正在定位link text元素，元素值为登录
+2021-06-08 16:21:07,920 webkey.py INFO  locator  正在定位name元素，元素值为accounts
+2021-06-08 16:21:07,987 webkey.py INFO  locator  正在定位name元素，元素值为pwd
+2021-06-08 16:21:08,056 webkey.py INFO  locator  正在定位xpath元素，元素值为/html/body/div[4]/div/div[2]/div[2]/form/div[3]/button
+2021-06-08 16:21:14,685 webkey.py INFO  open  访问URLhttp://www.jd.com
+2021-06-08 16:21:15,724 webkey.py INFO  locator  正在定位id元素，元素值为key
+2021-06-08 16:21:18,026 webkey.py INFO  open  访问URLhttp://www.jd.com
+2021-06-08 16:21:19,001 webkey.py INFO  locator  正在定位id元素，元素值为key
+2021-06-08 16:21:21,357 webkey.py INFO  open  访问URLhttp://www.jd.com
+2021-06-08 16:21:22,472 webkey.py INFO  locator  正在定位id元素，元素值为key
+2021-06-08 16:51:05,410 excel_webkey.py INFO  open  访问URLhttp://39.98.138.157/shopxo/index.php
+2021-06-08 16:51:11,530 excel_webkey.py INFO  locator  正在定位link text元素，元素值为登录
+2021-06-08 16:51:12,640 excel_webkey.py INFO  locator  正在定位name元素，元素值为accounts
+2021-06-08 16:51:12,720 excel_webkey.py INFO  locator  正在定位name元素，元素值为pwd
+2021-06-08 16:51:12,806 excel_webkey.py INFO  locator  正在定位xpath元素，元素值为//button[text()="登录"]
+2021-06-08 16:51:12,850 excel_webkey.py INFO  locator  正在定位link text元素，元素值为退出
+2021-06-08 16:51:16,076 excel_webkey.py INFO  sleep  等待5秒
+2021-06-08 16:51:24,693 webkey.py INFO  open  访问URLhttp://39.98.138.157/shopxo/
+2021-06-08 16:51:30,794 webkey.py INFO  locator  正在定位link text元素，元素值为登录
+2021-06-08 16:51:31,976 webkey.py INFO  locator  正在定位name元素，元素值为accounts
+2021-06-08 16:51:32,059 webkey.py INFO  locator  正在定位name元素，元素值为pwd
+2021-06-08 16:51:32,140 webkey.py INFO  locator  正在定位xpath元素，元素值为/html/body/div[4]/div/div[2]/div[2]/form/div[3]/button
+2021-06-08 16:51:39,764 webkey.py INFO  open  访问URLhttp://www.jd.com
+2021-06-08 16:51:40,780 webkey.py INFO  locator  正在定位id元素，元素值为key
+2021-06-08 16:51:43,346 webkey.py INFO  open  访问URLhttp://www.jd.com
+2021-06-08 16:51:44,399 webkey.py INFO  locator  正在定位id元素，元素值为key
+2021-06-08 16:51:46,827 webkey.py INFO  open  访问URLhttp://www.jd.com
+2021-06-08 16:51:47,888 webkey.py INFO  locator  正在定位id元素，元素值为key
+2021-06-08 17:48:02,449 excel_webkey.py INFO  open  访问URLhttp://39.98.138.157/shopxo/index.php
+2021-06-08 17:48:09,353 excel_webkey.py INFO  locator  正在定位link text元素，元素值为登录
+2021-06-08 17:48:10,170 excel_webkey.py INFO  locator  正在定位name元素，元素值为accounts
+2021-06-08 17:48:10,240 excel_webkey.py INFO  locator  正在定位name元素，元素值为pwd
+2021-06-08 17:48:10,313 excel_webkey.py INFO  locator  正在定位xpath元素，元素值为//button[text()="登录"]
+2021-06-08 17:48:10,358 excel_webkey.py INFO  locator  正在定位link text元素，元素值为退出
+2021-06-08 17:48:13,159 excel_webkey.py INFO  sleep  等待5秒
+2021-06-08 17:48:22,286 webkey.py INFO  open  访问URLhttp://39.98.138.157/shopxo/
+2021-06-08 17:48:29,584 webkey.py INFO  locator  正在定位link text元素，元素值为登录
+2021-06-08 17:48:31,039 webkey.py INFO  locator  正在定位name元素，元素值为accounts
+2021-06-08 17:48:31,110 webkey.py INFO  locator  正在定位name元素，元素值为pwd
+2021-06-08 17:48:31,182 webkey.py INFO  locator  正在定位xpath元素，元素值为/html/body/div[4]/div/div[2]/div[2]/form/div[3]/button
+2021-06-08 17:48:38,319 webkey.py INFO  open  访问URLhttp://www.jd.com
+2021-06-08 17:48:39,458 webkey.py INFO  locator  正在定位id元素，元素值为key
+2021-06-08 17:48:41,941 webkey.py INFO  open  访问URLhttp://www.jd.com
+2021-06-08 17:48:43,012 webkey.py INFO  locator  正在定位id元素，元素值为key
+2021-06-08 17:48:45,448 webkey.py INFO  open  访问URLhttp://www.jd.com
+2021-06-08 17:48:46,544 webkey.py INFO  locator  正在定位id元素，元素值为key
+2021-06-08 17:50:56,890 excel_webkey.py INFO  open  访问URLhttp://39.98.138.157/shopxo/index.php
+2021-06-08 17:51:03,812 excel_webkey.py INFO  locator  正在定位link text元素，元素值为登录
+2021-06-08 17:51:04,931 excel_webkey.py INFO  locator  正在定位name元素，元素值为accounts
+2021-06-08 17:51:05,016 excel_webkey.py INFO  locator  正在定位name元素，元素值为pwd
+2021-06-08 17:51:05,098 excel_webkey.py INFO  locator  正在定位xpath元素，元素值为//button[text()="登录"]
+2021-06-08 17:51:05,143 excel_webkey.py INFO  locator  正在定位link text元素，元素值为退出
+2021-06-08 17:51:10,355 excel_webkey.py INFO  sleep  等待5秒
+2021-06-08 17:51:18,969 webkey.py INFO  open  访问URLhttp://39.98.138.157/shopxo/
+2021-06-08 17:51:24,875 webkey.py INFO  locator  正在定位link text元素，元素值为登录
+2021-06-08 17:51:25,887 webkey.py INFO  locator  正在定位name元素，元素值为accounts
+2021-06-08 17:51:25,973 webkey.py INFO  locator  正在定位name元素，元素值为pwd
+2021-06-08 17:51:26,059 webkey.py INFO  locator  正在定位xpath元素，元素值为/html/body/div[4]/div/div[2]/div[2]/form/div[3]/button
+2021-06-08 17:51:33,165 webkey.py INFO  open  访问URLhttp://www.jd.com
+2021-06-08 17:51:34,190 webkey.py INFO  locator  正在定位id元素，元素值为key
+2021-06-08 17:51:36,542 webkey.py INFO  open  访问URLhttp://www.jd.com
+2021-06-08 17:51:37,555 webkey.py INFO  locator  正在定位id元素，元素值为key
+2021-06-08 17:51:39,907 webkey.py INFO  open  访问URLhttp://www.jd.com
+2021-06-08 17:51:41,031 webkey.py INFO  locator  正在定位id元素，元素值为key
+2021-06-09 23:53:21,588 excel_webkey.py INFO  open  访问URLhttp://39.98.138.157/shopxo/index.php
+2021-06-09 23:53:27,660 excel_webkey.py INFO  locator  正在定位link text元素，元素值为登录
+2021-06-09 23:53:28,715 excel_webkey.py INFO  locator  正在定位name元素，元素值为accounts
+2021-06-09 23:53:28,781 excel_webkey.py INFO  locator  正在定位name元素，元素值为pwd
+2021-06-09 23:53:28,852 excel_webkey.py INFO  locator  正在定位xpath元素，元素值为//button[text()="登录"]
+2021-06-09 23:53:28,887 excel_webkey.py INFO  locator  正在定位link text元素，元素值为退出
+2021-06-09 23:53:40,498 webkey.py INFO  open  访问URLhttp://39.98.138.157/shopxo/
+2021-06-09 23:53:46,617 webkey.py INFO  locator  正在定位link text元素，元素值为登录
+2021-06-09 23:53:47,656 webkey.py INFO  locator  正在定位name元素，元素值为accounts
+2021-06-09 23:53:47,736 webkey.py INFO  locator  正在定位name元素，元素值为pwd
+2021-06-09 23:53:47,839 webkey.py INFO  locator  正在定位xpath元素，元素值为/html/body/div[4]/div/div[2]/div[2]/form/div[3]/button
+2021-06-09 23:53:54,448 webkey.py INFO  open  访问URLhttp://www.jd.com
+2021-06-09 23:53:55,590 webkey.py INFO  locator  正在定位id元素，元素值为key
+2021-06-09 23:53:58,282 webkey.py INFO  open  访问URLhttp://www.jd.com
+2021-06-09 23:53:59,558 webkey.py INFO  locator  正在定位id元素，元素值为key
+2021-06-09 23:54:02,335 webkey.py INFO  open  访问URLhttp://www.jd.com
+2021-06-09 23:54:03,672 webkey.py INFO  locator  正在定位id元素，元素值为key

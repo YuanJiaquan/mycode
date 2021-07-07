@@ -1,0 +1,42 @@
+#(1, 'open_browser', None, None, 'Chrome', '创建chrome浏览器', None)
+#(2, 'open', None, None, 'http://39.98.138.157/shopxo/index.php', '访问电商系统', None)
+#(3, 'click', 'link text', '登录', None, '进入登录页', None)
+#(4, 'input', 'name', 'accounts', 'xuzhu666', '输入账号', None)
+#(5, 'input', 'name', 'pwd', 123456, '输入密码', None)
+#(6, 'click', 'xpath', '//button[text()="登录"]', None, '点击登录按钮', None)
+#(7, 'assert_text', 'link text', '退出', '退出', '校验登录是否成功', 'Pass')
+#(8, 'sleep', None, None, 5, '强制等待5秒', None)
+#(9, 'quit', None, None, None, '关闭浏览器并释放资源', None)
+-
+  w: open_browser
+  txt: Chrome
+-
+  w: open
+  txt: http://39.98.138.157/shopxo/index.php
+-
+  w: click
+  name: link text
+  value: 登录
+-
+  w: input
+  name: name
+  value: accounts
+  txt:  xuzhu666
+-
+  w: input
+  name: name
+  value: pwd
+  txt: 123456
+-
+  w: click
+  name: xpath
+  value: //button[text()="登录"]
+-
+  w: assert_text
+  name: link text
+  value: 退出
+-
+  w: sleep
+  txt: 5
+-
+  w: quit

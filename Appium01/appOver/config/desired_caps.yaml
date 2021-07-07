@@ -1,0 +1,11 @@
+a: Android
+b: 5.1.1
+c: 127.0.0.1:62001
+#真机
+#uuid: 7u8io9iehghejge
+
+appPackage1: com.tal.kaoyan
+appActivity1: com.tal.kaoyan.ui.activity.SplashActivity
+noReset1: False
+ip1: 127.0.0.1
+port1: 4723

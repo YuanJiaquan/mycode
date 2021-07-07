@@ -1,0 +1,4 @@
+-
+  'xpath': //*[@resource-id=android:id/button2]
+-
+  'xpath': //*[@resource-id="com.tal.kaoyan:id/tv_skip"]

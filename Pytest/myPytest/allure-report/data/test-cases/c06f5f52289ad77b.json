@@ -1,0 +1,213 @@
+{
+  "uid" : "c06f5f52289ad77b",
+  "name" : "test_02",
+  "fullName" : "test_01#test_02",
+  "historyId" : "7632a118acfd9dca11133202e509eb6e",
+  "time" : {
+    "start" : 1625644728396,
+    "stop" : 1625644736700,
+    "duration" : 8304
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "65d4eb7bd76d8158",
+      "name" : "stdout",
+      "source" : "65d4eb7bd76d8158.txt",
+      "type" : "text/plain",
+      "size" : 14
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_01"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-I9LDLDD"
+  }, {
+    "name" : "thread",
+    "value" : "19668-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_01"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2062c9fece69f315",
+      "status" : "passed",
+      "time" : {
+        "start" : 1625644388019,
+        "stop" : 1625644395701,
+        "duration" : 7682
+      }
+    }, {
+      "uid" : "192615edf193bae2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1625643734076,
+        "stop" : 1625643741264,
+        "duration" : 7188
+      }
+    }, {
+      "uid" : "cb46d16545684594",
+      "status" : "passed",
+      "time" : {
+        "start" : 1625643253522,
+        "stop" : 1625643261524,
+        "duration" : 8002
+      }
+    }, {
+      "uid" : "c40f1bbd5ea0d17c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1625642917969,
+        "stop" : 1625642925836,
+        "duration" : 7867
+      }
+    }, {
+      "uid" : "c3498b45b0ced421",
+      "status" : "passed",
+      "time" : {
+        "start" : 1625642787092,
+        "stop" : 1625642794432,
+        "duration" : 7340
+      }
+    }, {
+      "uid" : "a6257532165bde47",
+      "status" : "passed",
+      "time" : {
+        "start" : 1625642400179,
+        "stop" : 1625642408113,
+        "duration" : 7934
+      }
+    }, {
+      "uid" : "640a620563fba2f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1625636008217,
+        "stop" : 1625636016074,
+        "duration" : 7857
+      }
+    }, {
+      "uid" : "ad017ea014a01e12",
+      "status" : "passed",
+      "time" : {
+        "start" : 1625597991435,
+        "stop" : 1625597998146,
+        "duration" : 6711
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 9,
+        "unknown" : 0,
+        "total" : 9
+      },
+      "items" : [ {
+        "uid" : "4d1ddc27b7d0593d",
+        "reportUrl" : "http://localhost:8080/jenkins/job/jiaquan.yuan/29/allure/#testresult/4d1ddc27b7d0593d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625644388019,
+          "stop" : 1625644395701,
+          "duration" : 7682
+        }
+      }, {
+        "uid" : "3dc3bcc754ed25fa",
+        "reportUrl" : "http://localhost:8080/jenkins/job/jiaquan.yuan/28/allure/#testresult/3dc3bcc754ed25fa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625643734076,
+          "stop" : 1625643741264,
+          "duration" : 7188
+        }
+      }, {
+        "uid" : "3ef7ca760536aa16",
+        "reportUrl" : "http://localhost:8080/jenkins/job/jiaquan.yuan/27/allure/#testresult/3ef7ca760536aa16",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625643253522,
+          "stop" : 1625643261524,
+          "duration" : 8002
+        }
+      }, {
+        "uid" : "1fa78f681cf4d7c",
+        "reportUrl" : "http://localhost:8080/jenkins/job/jiaquan.yuan/26/allure/#testresult/1fa78f681cf4d7c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625642917969,
+          "stop" : 1625642925836,
+          "duration" : 7867
+        }
+      }, {
+        "uid" : "31c042dea5d75aab",
+        "reportUrl" : "http://localhost:8080/jenkins/job/jiaquan.yuan/25/allure/#testresult/31c042dea5d75aab",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625642787092,
+          "stop" : 1625642794432,
+          "duration" : 7340
+        }
+      }, {
+        "uid" : "737854f5b16c3c99",
+        "reportUrl" : "http://localhost:8080/jenkins/job/jiaquan.yuan/24/allure/#testresult/737854f5b16c3c99",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625642400179,
+          "stop" : 1625642408113,
+          "duration" : 7934
+        }
+      }, {
+        "uid" : "d3d9cc18955472be",
+        "reportUrl" : "http://localhost:8080/jenkins/job/jiaquan.yuan/23/allure/#testresult/d3d9cc18955472be",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625636008217,
+          "stop" : 1625636016074,
+          "duration" : 7857
+        }
+      }, {
+        "uid" : "a982c74cb4517bd0",
+        "reportUrl" : "http://localhost:8080/jenkins/job/jiaquan.yuan/22/allure/#testresult/a982c74cb4517bd0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625597991435,
+          "stop" : 1625597998146,
+          "duration" : 6711
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "c06f5f52289ad77b.json",
+  "parameterValues" : [ ]
+}

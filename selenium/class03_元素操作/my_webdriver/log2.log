@@ -1,0 +1,13 @@
+2021-05-12 07:26:35,317 homework.py INFO  <module>  初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="a5a3d55dbefa4977f78098e985b0bf57")>
+2021-05-12 07:26:35,550 homework.py INFO  <module>  放大window<selenium.webdriver.chrome.webdriver.WebDriver (session="a5a3d55dbefa4977f78098e985b0bf57")>
+2021-05-12 07:27:28,079 homework.py INFO  <module>  初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="76b08b4e507dd8c54bce6bbb02aacc89")>
+2021-05-12 07:27:28,193 homework.py INFO  <module>  放大windowNone
+2021-05-12 07:28:20,810 homework.py INFO  <module>  初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="d8b9bb0d3c820451d3d7e57110a14f47")>
+2021-05-12 07:28:20,926 homework.py INFO  <module>  放大windowNone
+2021-05-12 07:28:27,061 homework.py INFO  <module>  访问地址None
+2021-05-13 08:52:45,166 homework.py INFO  <module>  初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="9f51f0ee4ac3dfa8eeb009f4030be5cf")>
+2021-05-13 08:52:45,283 homework.py INFO  <module>  放大windowNone
+2021-05-13 08:52:51,319 homework.py INFO  <module>  访问地址None
+2021-05-13 17:42:28,217 homework.py INFO  <module>  初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="6fba99380b63368d3ed6834a520cd7a2")>
+2021-05-13 17:42:28,332 homework.py INFO  <module>  放大windowNone
+2021-05-13 17:42:34,271 homework.py INFO  <module>  访问地址http://39.98.138.157/shopxo/index.php

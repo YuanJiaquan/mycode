@@ -1,0 +1,64 @@
+2021-05-08 16:57:11,272 test2.py INFO  fen_log  info模式
+2021-05-08 16:57:11,272 test2.py WARNING  fen_log  warning模式
+2021-05-08 16:57:11,272 test2.py ERROR  fen_log  error模式
+2021-05-08 16:57:11,272 test2.py CRITICAL  fen_log  critical模式
+2021-05-08 17:05:04,362 test2.py INFO  fen_log  info模式
+2021-05-08 17:05:04,363 test2.py WARNING  fen_log  warning模式
+2021-05-08 17:05:04,363 test2.py ERROR  fen_log  error模式
+2021-05-08 17:05:04,363 test2.py CRITICAL  fen_log  critical模式
+2021-05-08 17:05:04,363 test2.py INFO  fen_log  info模式
+2021-05-08 17:05:04,363 test2.py INFO  fen_log  info模式
+2021-05-08 17:05:04,363 test2.py WARNING  fen_log  warning模式
+2021-05-08 17:05:04,363 test2.py WARNING  fen_log  warning模式
+2021-05-08 17:05:04,364 test2.py ERROR  fen_log  error模式
+2021-05-08 17:05:04,364 test2.py ERROR  fen_log  error模式
+2021-05-08 17:05:04,364 test2.py CRITICAL  fen_log  critical模式
+2021-05-08 17:05:04,364 test2.py CRITICAL  fen_log  critical模式
+2021-05-08 17:05:06,344 ui.py INFO  __init__  初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="e0c1398830f88c33928cfbdae8b12f9e")>
+2021-05-08 17:05:06,344 ui.py INFO  __init__  初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="e0c1398830f88c33928cfbdae8b12f9e")>
+2021-05-08 17:05:06,344 ui.py INFO  open  正在访问网址http://www.baidu.com
+2021-05-08 17:05:06,344 ui.py INFO  open  正在访问网址http://www.baidu.com
+2021-05-08 17:05:07,495 ui.py INFO  on_input  正在定位id元素，元素值为kw,输入的内容为秋水
+2021-05-08 17:05:07,495 ui.py INFO  on_input  正在定位id元素，元素值为kw,输入的内容为秋水
+2021-05-08 17:05:07,590 ui.py INFO  on_click  正在定位id元素，元素值为su,进行点击
+2021-05-08 17:05:07,590 ui.py INFO  on_click  正在定位id元素，元素值为su,进行点击
+2021-05-08 17:05:07,669 ui.py INFO  wait  正在等待
+2021-05-08 17:05:07,669 ui.py INFO  wait  正在等待
+2021-05-08 17:05:10,670 ui.py INFO  on_click  正在定位xpath元素，元素值为//*[@id="1"]/h3/a/em,进行点击
+2021-05-08 17:05:10,670 ui.py INFO  on_click  正在定位xpath元素，元素值为//*[@id="1"]/h3/a/em,进行点击
+2021-05-08 17:05:10,750 ui.py INFO  wait  正在等待
+2021-05-08 17:05:10,750 ui.py INFO  wait  正在等待
+2021-05-08 17:05:13,752 ui.py INFO  close  关闭浏览器
+2021-05-08 17:05:13,752 ui.py INFO  close  关闭浏览器
+2021-05-08 17:13:25,503 ui.py INFO  __init__  初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="347f52004dca4f10e09ba9dc5774e309")>
+2021-05-08 17:13:25,503 ui.py INFO  __init__  初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="347f52004dca4f10e09ba9dc5774e309")>
+2021-05-08 17:13:25,503 ui.py INFO  open  正在访问网址http://www.baidu.com
+2021-05-08 17:13:25,503 ui.py INFO  open  正在访问网址http://www.baidu.com
+2021-05-08 17:13:26,544 ui.py INFO  on_input  正在定位id元素，元素值为kw,输入的内容为秋水
+2021-05-08 17:13:26,544 ui.py INFO  on_input  正在定位id元素，元素值为kw,输入的内容为秋水
+2021-05-08 17:13:26,666 ui.py INFO  on_click  正在定位id元素，元素值为su,进行点击
+2021-05-08 17:13:26,666 ui.py INFO  on_click  正在定位id元素，元素值为su,进行点击
+2021-05-08 17:13:26,732 ui.py INFO  wait  正在等待
+2021-05-08 17:13:26,732 ui.py INFO  wait  正在等待
+2021-05-08 17:13:29,733 ui.py INFO  on_click  正在定位xpath元素，元素值为//*[@id="1"]/h3/a/em,进行点击
+2021-05-08 17:13:29,733 ui.py INFO  on_click  正在定位xpath元素，元素值为//*[@id="1"]/h3/a/em,进行点击
+2021-05-08 17:13:29,821 ui.py INFO  wait  正在等待
+2021-05-08 17:13:29,821 ui.py INFO  wait  正在等待
+2021-05-08 17:13:32,821 ui.py INFO  close  关闭浏览器
+2021-05-08 17:13:32,821 ui.py INFO  close  关闭浏览器
+2021-05-08 17:17:56,320 ui.py INFO  __init__  初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="bedd4c51a7122eac9e399197e1bd63e1")>
+2021-05-08 17:17:56,320 ui.py INFO  open  正在访问网址http://www.baidu.com
+2021-05-08 17:17:57,340 ui.py INFO  on_input  正在定位id元素，元素值为kw,输入的内容为秋水
+2021-05-08 17:17:57,476 ui.py INFO  on_click  正在定位id元素，元素值为su,进行点击
+2021-05-08 17:17:57,535 ui.py INFO  wait  正在等待
+2021-05-08 17:18:00,536 ui.py INFO  on_click  正在定位xpath元素，元素值为//*[@id="1"]/h3/a/em,进行点击
+2021-05-08 17:18:00,613 ui.py INFO  wait  正在等待
+2021-05-08 17:18:03,613 ui.py INFO  close  关闭浏览器
+2021-05-12 07:30:17,112 ui.py INFO  __init__  初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="6af362f8d8368aac419ad9206c2f030d")>
+2021-05-12 07:30:17,125 ui.py INFO  open  正在访问网址http://www.baidu.com
+2021-05-12 07:30:18,230 ui.py INFO  on_input  正在定位id元素，元素值为kw,输入的内容为秋水
+2021-05-12 07:30:18,376 ui.py INFO  on_click  正在定位id元素，元素值为su,进行点击
+2021-05-12 07:30:18,454 ui.py INFO  wait  正在等待
+2021-05-12 07:30:21,455 ui.py INFO  on_click  正在定位xpath元素，元素值为//*[@id="1"]/h3/a/em,进行点击
+2021-05-12 07:30:21,526 ui.py INFO  wait  正在等待
+2021-05-12 07:30:24,527 ui.py INFO  close  关闭浏览器

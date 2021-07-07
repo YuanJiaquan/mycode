@@ -1,0 +1,67 @@
+{
+  "uid" : "2f3e6ce46f0db358",
+  "name" : "test02",
+  "fullName" : "test_04#test02",
+  "historyId" : "895692a94bf0af8d7f53ad1e41128939",
+  "time" : {
+    "start" : 1625644401984,
+    "stop" : 1625644401984,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c7fb06c771c03139",
+      "name" : "stdout",
+      "source" : "c7fb06c771c03139.txt",
+      "type" : "text/plain",
+      "size" : 7
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "ui('nihao')"
+  }, {
+    "name" : "suite",
+    "value" : "test_04"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-I9LDLDD"
+  }, {
+    "name" : "thread",
+    "value" : "23136-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_04"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "ui('nihao')" ]
+  },
+  "source" : "2f3e6ce46f0db358.json",
+  "parameterValues" : [ ]
+}

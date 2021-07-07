@@ -1,0 +1,19 @@
+# 字典的嵌套组合
+xiaoming:
+  have:
+    hight: 185
+    other:
+      color: blue
+      weight: 65
+key2:
+  key2.1:
+    key2.1.1: value2.1.1
+key3:
+  - a
+  - b
+  - c
+key4:
+  -
+    key4.1.1:
+      -
+        key4.1.1.1: value4.1.1.1

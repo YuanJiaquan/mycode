@@ -1,0 +1,68 @@
+{
+  "uid" : "5229bcb258c986b4",
+  "name" : "test04",
+  "fullName" : "test_04#test04",
+  "historyId" : "63cd1041340e63e155aae2627d65ed04",
+  "time" : {
+    "start" : 1625643748095,
+    "stop" : 1625643748095,
+    "duration" : 0
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 1 == 2\n  +1\n  -2",
+  "statusTrace" : "test01 = 1\n\n    @pytest.mark.ui('nihao')\n    def test04(test01):\n>       assert  test01==2\nE       assert 1 == 2\nE         +1\nE         -2\n\ntest_04.py:16: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "test01",
+    "time" : {
+      "start" : 1625643748094,
+      "stop" : 1625643748094,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "ui('nihao')"
+  }, {
+    "name" : "suite",
+    "value" : "test_04"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-I9LDLDD"
+  }, {
+    "name" : "thread",
+    "value" : "24928-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_04"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "ui('nihao')" ]
+  },
+  "source" : "5229bcb258c986b4.json",
+  "parameterValues" : [ ]
+}

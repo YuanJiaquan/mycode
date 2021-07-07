@@ -1,0 +1,61 @@
+2021-05-26 13:33:44,693 webkey.py INFO  open  访问URLhttp://39.98.138.157/shopxo/
+2021-05-26 13:34:24,011 webkey.py INFO  open  访问URLhttp://39.98.138.157/shopxo/
+2021-05-26 13:34:59,791 webkey.py INFO  open  访问URLhttp://39.98.138.157/shopxo/
+2021-05-26 13:36:06,638 webkey.py INFO  open  访问URLhttp://39.98.138.157/shopxo/
+2021-05-26 13:36:12,939 webkey.py INFO  locator  正在定位link text元素，元素值为登录
+2021-05-26 13:36:14,159 webkey.py INFO  locator  正在定位name元素，元素值为accounts
+2021-05-26 13:36:14,243 webkey.py INFO  locator  正在定位name元素，元素值为pwd
+2021-05-26 13:36:14,321 webkey.py INFO  locator  正在定位xpath元素，元素值为/html/body/div[4]/div/div[2]/div[2]/form/div[3]/button
+2021-05-28 19:28:04,321 webkey.py INFO  open  访问URLhttp://39.98.138.157/shopxo/
+2021-05-28 19:28:10,638 webkey.py INFO  locator  正在定位link text元素，元素值为登录
+2021-05-28 19:28:11,756 webkey.py INFO  locator  正在定位name元素，元素值为accounts
+2021-05-28 19:28:11,823 webkey.py INFO  locator  正在定位name元素，元素值为pwd
+2021-05-28 19:28:11,893 webkey.py INFO  locator  正在定位xpath元素，元素值为/html/body/div[4]/div/div[2]/div[2]/form/div[3]/button
+2021-05-28 19:29:29,215 webkey.py INFO  open  访问URLhttp://39.98.138.157/shopxo/
+2021-05-28 19:29:35,069 webkey.py INFO  locator  正在定位link text元素，元素值为登录
+2021-05-28 19:29:36,434 webkey.py INFO  locator  正在定位name元素，元素值为accounts
+2021-05-28 19:29:36,500 webkey.py INFO  locator  正在定位name元素，元素值为pwd
+2021-05-28 19:29:36,569 webkey.py INFO  locator  正在定位xpath元素，元素值为/html/body/div[4]/div/div[2]/div[2]/form/div[3]/button
+2021-05-28 19:34:25,312 webkey.py INFO  open  访问URLhttp://39.98.138.157/shopxo/
+2021-05-28 19:44:16,277 webkey.py INFO  open  访问URLhttp://39.98.138.157/shopxo/
+2021-05-28 19:44:48,744 webkey.py INFO  open  访问URLhttp://39.98.138.157/shopxo/
+2021-05-28 19:45:06,398 webkey.py INFO  open  访问URLhttp://39.98.138.157/shopxo/
+2021-05-28 19:45:13,490 webkey.py INFO  locator  正在定位name元素，元素值为accounts
+2021-05-28 19:45:13,558 webkey.py INFO  locator  正在定位name元素，元素值为pwd
+2021-05-28 19:46:03,312 webkey.py INFO  open  访问URLhttp://39.98.138.157/shopxo/
+2021-05-28 19:52:05,111 webkey.py INFO  open  访问URLhttp://39.98.138.157/shopxo/
+2021-05-28 20:25:02,935 webkey.py INFO  open  访问URLhttp://39.98.138.157/shopxo/
+2021-05-28 20:25:09,079 webkey.py INFO  locator  正在定位link text元素，元素值为登录
+2021-05-28 20:25:10,232 webkey.py INFO  locator  正在定位name元素，元素值为accounts
+2021-05-28 20:25:10,319 webkey.py INFO  locator  正在定位name元素，元素值为pwd
+2021-05-28 20:25:10,409 webkey.py INFO  locator  正在定位xpath元素，元素值为/html/body/div[4]/div/div[2]/div[2]/form/div[3]/button
+2021-05-28 20:25:58,390 webkey.py INFO  open  访问URLhttp://39.98.138.157/shopxo/
+2021-05-28 20:26:04,485 webkey.py INFO  locator  正在定位link text元素，元素值为登录
+2021-05-28 20:26:05,545 webkey.py INFO  locator  正在定位name元素，元素值为accounts
+2021-05-28 20:26:05,637 webkey.py INFO  locator  正在定位name元素，元素值为pwd
+2021-05-28 20:26:05,723 webkey.py INFO  locator  正在定位xpath元素，元素值为/html/body/div[4]/div/div[2]/div[2]/form/div[3]/button
+2021-05-28 20:26:33,193 webkey.py INFO  open  访问URLhttp://39.98.138.157/shopxo/
+2021-05-28 20:26:39,072 webkey.py INFO  locator  正在定位link text元素，元素值为登录
+2021-05-28 20:26:40,094 webkey.py INFO  locator  正在定位name元素，元素值为accounts
+2021-05-28 20:26:40,166 webkey.py INFO  locator  正在定位name元素，元素值为pwd
+2021-05-28 20:26:40,242 webkey.py INFO  locator  正在定位xpath元素，元素值为/html/body/div[4]/div/div[2]/div[2]/form/div[3]/button
+2021-05-28 20:26:58,276 webkey.py INFO  open  访问URLhttp://39.98.138.157/shopxo/
+2021-05-28 20:27:04,608 webkey.py INFO  locator  正在定位link text元素，元素值为登录
+2021-05-28 20:27:05,760 webkey.py INFO  locator  正在定位name元素，元素值为accounts
+2021-05-28 20:27:05,845 webkey.py INFO  locator  正在定位name元素，元素值为pwd
+2021-05-28 20:27:05,932 webkey.py INFO  locator  正在定位xpath元素，元素值为/html/body/div[4]/div/div[2]/div[2]/form/div[3]/button
+2021-05-28 20:28:19,831 webkey.py INFO  open  访问URLhttp://39.98.138.157/shopxo/
+2021-05-28 20:28:25,767 webkey.py INFO  locator  正在定位link text元素，元素值为登录
+2021-05-28 20:28:27,086 webkey.py INFO  locator  正在定位name元素，元素值为accounts
+2021-05-28 20:28:27,184 webkey.py INFO  locator  正在定位name元素，元素值为pwd
+2021-05-28 20:28:27,285 webkey.py INFO  locator  正在定位xpath元素，元素值为/html/body/div[4]/div/div[2]/div[2]/form/div[3]/button
+2021-05-28 20:29:15,412 webkey.py INFO  open  访问URLhttp://39.98.138.157/shopxo/
+2021-05-28 20:29:21,664 webkey.py INFO  locator  正在定位link text元素，元素值为登录
+2021-05-28 20:29:22,505 webkey.py INFO  locator  正在定位name元素，元素值为accounts
+2021-05-28 20:29:22,573 webkey.py INFO  locator  正在定位name元素，元素值为pwd
+2021-05-28 20:29:22,641 webkey.py INFO  locator  正在定位xpath元素，元素值为/html/body/div[4]/div/div[2]/div[2]/form/div[3]/button
+2021-06-07 21:59:49,529 webkey.py INFO  open  访问URLhttp://39.98.138.157/shopxo/
+2021-06-07 21:59:55,623 webkey.py INFO  locator  正在定位link text元素，元素值为登录
+2021-06-07 21:59:56,788 webkey.py INFO  locator  正在定位name元素，元素值为accounts
+2021-06-07 21:59:56,858 webkey.py INFO  locator  正在定位name元素，元素值为pwd
+2021-06-07 21:59:56,937 webkey.py INFO  locator  正在定位xpath元素，元素值为/html/body/div[4]/div/div[2]/div[2]/form/div[3]/button

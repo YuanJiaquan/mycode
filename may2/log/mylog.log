@@ -1,0 +1,35 @@
+初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="947e3e78c59abd0d4670db830acaf3bc")>
+正在访问网址http://www.baidu.com
+正在定位id元素，元素值为kw1,输入的内容为秋水
+输入内容失败Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="kw1"]"}
+  (Session info: chrome=89.0.4389.128)
+
+正在定位id元素，元素值为su,进行点击
+正在等待
+正在定位xpath元素，元素值为//*[@id="1"]/h3/a/em,进行点击
+点击按钮失败Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="1"]/h3/a/em"}
+  (Session info: chrome=89.0.4389.128)
+
+正在等待
+关闭浏览器
+初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="5c298755da892a782626195ae4b5439d")>
+正在访问网址http://www.baidu.com
+正在定位id元素，元素值为kw1,输入的内容为秋水
+输入内容失败Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="kw1"]"}
+  (Session info: chrome=89.0.4389.128)
+
+正在定位id元素，元素值为su,进行点击
+正在等待
+正在定位xpath元素，元素值为//*[@id="1"]/h3/a/em,进行点击
+点击按钮失败Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="1"]/h3/a/em"}
+  (Session info: chrome=89.0.4389.128)
+
+正在等待
+2021-04-20 22:01:43,779 basePagefb.py INFO  __init__  初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="2270e3f05604f748a653dfd5466725c0")>
+2021-04-20 22:01:43,779 basePagefb.py INFO  open  正在访问网址http://www.baidu.com
+2021-04-20 22:01:47,850 basePagefb.py INFO  on_input  正在定位id元素，元素值为kw,输入的内容为秋水
+2021-04-20 22:01:48,195 basePagefb.py INFO  on_click  正在定位id元素，元素值为su,进行点击
+2021-04-20 22:01:48,427 basePagefb.py INFO  wait  正在等待
+2021-04-20 22:01:51,428 basePagefb.py INFO  on_click  正在定位xpath元素，元素值为//*[@id="1"]/h3/a/em,进行点击
+2021-04-20 22:01:51,664 basePagefb.py INFO  wait  正在等待
+2021-04-20 22:01:54,664 basePagefb.py INFO  close  关闭浏览器

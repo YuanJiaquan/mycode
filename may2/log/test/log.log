@@ -1,0 +1,79 @@
+2021-05-08 16:09:04,511 ui.py INFO  __init__  初始化driverchrome
+2021-05-08 16:10:36,454 remote_connection.py DEBUG  _request  POST http://127.0.0.1:64879/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2021-05-08 16:10:36,454 connectionpool.py DEBUG  _new_conn  Starting new HTTP connection (1): 127.0.0.1:64879
+2021-05-08 16:10:37,868 connectionpool.py DEBUG  _make_request  http://127.0.0.1:64879 "POST /session HTTP/1.1" 200 755
+2021-05-08 16:10:37,868 remote_connection.py DEBUG  _request  Finished Request
+2021-05-08 16:10:37,869 ui.py INFO  __init__  初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="ea2fe5fd67da3c6e39220418823d7eb2")>
+2021-05-08 16:10:37,869 ui.py INFO  open  正在访问网址http://www.baidu.com
+2021-05-08 16:11:29,635 remote_connection.py DEBUG  _request  POST http://127.0.0.1:64946/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2021-05-08 16:11:29,635 connectionpool.py DEBUG  _new_conn  Starting new HTTP connection (1): 127.0.0.1:64946
+2021-05-08 16:11:30,868 connectionpool.py DEBUG  _make_request  http://127.0.0.1:64946 "POST /session HTTP/1.1" 200 756
+2021-05-08 16:11:30,868 remote_connection.py DEBUG  _request  Finished Request
+2021-05-08 16:11:30,868 ui.py INFO  __init__  初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="ecf04c31906cb8aaa63185de03574862")>
+2021-05-08 16:11:30,868 ui.py INFO  open  正在访问网址http://www.baidu.com
+2021-05-08 16:11:30,869 remote_connection.py DEBUG  _request  POST http://127.0.0.1:64946/session/ecf04c31906cb8aaa63185de03574862/url {"url": "http://www.baidu.com"}
+2021-05-08 16:11:31,775 connectionpool.py DEBUG  _make_request  http://127.0.0.1:64946 "POST /session/ecf04c31906cb8aaa63185de03574862/url HTTP/1.1" 200 14
+2021-05-08 16:11:31,776 remote_connection.py DEBUG  _request  Finished Request
+2021-05-08 16:11:31,776 ui.py INFO  on_input  正在定位id元素，元素值为kw,输入的内容为秋水
+2021-05-08 16:11:31,776 remote_connection.py DEBUG  _request  POST http://127.0.0.1:64946/session/ecf04c31906cb8aaa63185de03574862/element {"using": "css selector", "value": "[id=\"kw\"]"}
+2021-05-08 16:11:31,788 connectionpool.py DEBUG  _make_request  http://127.0.0.1:64946 "POST /session/ecf04c31906cb8aaa63185de03574862/element HTTP/1.1" 200 88
+2021-05-08 16:11:31,789 remote_connection.py DEBUG  _request  Finished Request
+2021-05-08 16:11:31,789 remote_connection.py DEBUG  _request  POST http://127.0.0.1:64946/session/ecf04c31906cb8aaa63185de03574862/element/32b85e42-6b05-4eda-8eb7-cd44788778f0/value {"text": "\u79cb\u6c34", "value": ["\u79cb", "\u6c34"], "id": "32b85e42-6b05-4eda-8eb7-cd44788778f0"}
+2021-05-08 16:11:31,916 connectionpool.py DEBUG  _make_request  http://127.0.0.1:64946 "POST /session/ecf04c31906cb8aaa63185de03574862/element/32b85e42-6b05-4eda-8eb7-cd44788778f0/value HTTP/1.1" 200 14
+2021-05-08 16:11:31,916 remote_connection.py DEBUG  _request  Finished Request
+2021-05-08 16:11:31,916 ui.py INFO  on_click  正在定位id元素，元素值为su,进行点击
+2021-05-08 16:11:31,917 remote_connection.py DEBUG  _request  POST http://127.0.0.1:64946/session/ecf04c31906cb8aaa63185de03574862/element {"using": "css selector", "value": "[id=\"su\"]"}
+2021-05-08 16:11:31,935 connectionpool.py DEBUG  _make_request  http://127.0.0.1:64946 "POST /session/ecf04c31906cb8aaa63185de03574862/element HTTP/1.1" 200 88
+2021-05-08 16:11:31,935 remote_connection.py DEBUG  _request  Finished Request
+2021-05-08 16:11:31,935 remote_connection.py DEBUG  _request  POST http://127.0.0.1:64946/session/ecf04c31906cb8aaa63185de03574862/element/1bea11bc-4190-4525-a235-bd5656bb0757/click {"id": "1bea11bc-4190-4525-a235-bd5656bb0757"}
+2021-05-08 16:11:32,004 connectionpool.py DEBUG  _make_request  http://127.0.0.1:64946 "POST /session/ecf04c31906cb8aaa63185de03574862/element/1bea11bc-4190-4525-a235-bd5656bb0757/click HTTP/1.1" 200 14
+2021-05-08 16:11:32,005 remote_connection.py DEBUG  _request  Finished Request
+2021-05-08 16:11:32,005 ui.py INFO  wait  正在等待
+2021-05-08 16:11:35,006 ui.py INFO  on_click  正在定位xpath元素，元素值为//*[@id="1"]/h3/a/em,进行点击
+2021-05-08 16:11:35,006 remote_connection.py DEBUG  _request  POST http://127.0.0.1:64946/session/ecf04c31906cb8aaa63185de03574862/element {"using": "xpath", "value": "//*[@id=\"1\"]/h3/a/em"}
+2021-05-08 16:11:35,017 connectionpool.py DEBUG  _make_request  http://127.0.0.1:64946 "POST /session/ecf04c31906cb8aaa63185de03574862/element HTTP/1.1" 200 88
+2021-05-08 16:11:35,018 remote_connection.py DEBUG  _request  Finished Request
+2021-05-08 16:11:35,018 remote_connection.py DEBUG  _request  POST http://127.0.0.1:64946/session/ecf04c31906cb8aaa63185de03574862/element/3c42b73c-6a87-4794-9c6c-9f85b0d737ae/click {"id": "3c42b73c-6a87-4794-9c6c-9f85b0d737ae"}
+2021-05-08 16:11:35,085 connectionpool.py DEBUG  _make_request  http://127.0.0.1:64946 "POST /session/ecf04c31906cb8aaa63185de03574862/element/3c42b73c-6a87-4794-9c6c-9f85b0d737ae/click HTTP/1.1" 200 14
+2021-05-08 16:11:35,085 remote_connection.py DEBUG  _request  Finished Request
+2021-05-08 16:11:35,085 ui.py INFO  wait  正在等待
+2021-05-08 16:11:38,086 ui.py INFO  close  关闭浏览器
+2021-05-08 16:11:38,086 remote_connection.py DEBUG  _request  DELETE http://127.0.0.1:64946/session/ecf04c31906cb8aaa63185de03574862 {}
+2021-05-08 16:11:38,135 connectionpool.py DEBUG  _make_request  http://127.0.0.1:64946 "DELETE /session/ecf04c31906cb8aaa63185de03574862 HTTP/1.1" 200 14
+2021-05-08 16:11:38,135 remote_connection.py DEBUG  _request  Finished Request
+2021-05-08 16:14:43,798 remote_connection.py DEBUG  _request  POST http://127.0.0.1:65507/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2021-05-08 16:14:43,799 connectionpool.py DEBUG  _new_conn  Starting new HTTP connection (1): 127.0.0.1:65507
+2021-05-08 16:14:45,070 connectionpool.py DEBUG  _make_request  http://127.0.0.1:65507 "POST /session HTTP/1.1" 200 756
+2021-05-08 16:14:45,070 remote_connection.py DEBUG  _request  Finished Request
+2021-05-08 16:14:45,070 ui.py INFO  __init__  初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="1555d330f02fc2ca3c96984b6c139ae7")>
+2021-05-08 16:14:45,070 ui.py INFO  open  正在访问网址http://www.baidu.com
+2021-05-08 16:14:45,071 remote_connection.py DEBUG  _request  POST http://127.0.0.1:65507/session/1555d330f02fc2ca3c96984b6c139ae7/url {"url": "http://www.baidu.com"}
+2021-05-08 16:14:45,993 connectionpool.py DEBUG  _make_request  http://127.0.0.1:65507 "POST /session/1555d330f02fc2ca3c96984b6c139ae7/url HTTP/1.1" 200 14
+2021-05-08 16:14:45,994 remote_connection.py DEBUG  _request  Finished Request
+2021-05-08 16:14:45,994 ui.py INFO  on_input  正在定位id元素，元素值为kw,输入的内容为秋水
+2021-05-08 16:14:45,994 remote_connection.py DEBUG  _request  POST http://127.0.0.1:65507/session/1555d330f02fc2ca3c96984b6c139ae7/element {"using": "css selector", "value": "[id=\"kw\"]"}
+2021-05-08 16:14:46,013 connectionpool.py DEBUG  _make_request  http://127.0.0.1:65507 "POST /session/1555d330f02fc2ca3c96984b6c139ae7/element HTTP/1.1" 200 88
+2021-05-08 16:14:46,013 remote_connection.py DEBUG  _request  Finished Request
+2021-05-08 16:14:46,013 remote_connection.py DEBUG  _request  POST http://127.0.0.1:65507/session/1555d330f02fc2ca3c96984b6c139ae7/element/354b5c24-9028-47d4-87eb-b565c4547cc3/value {"text": "\u79cb\u6c34", "value": ["\u79cb", "\u6c34"], "id": "354b5c24-9028-47d4-87eb-b565c4547cc3"}
+2021-05-08 16:14:46,121 connectionpool.py DEBUG  _make_request  http://127.0.0.1:65507 "POST /session/1555d330f02fc2ca3c96984b6c139ae7/element/354b5c24-9028-47d4-87eb-b565c4547cc3/value HTTP/1.1" 200 14
+2021-05-08 16:14:46,122 remote_connection.py DEBUG  _request  Finished Request
+2021-05-08 16:14:46,122 ui.py INFO  on_click  正在定位id元素，元素值为su,进行点击
+2021-05-08 16:14:46,122 remote_connection.py DEBUG  _request  POST http://127.0.0.1:65507/session/1555d330f02fc2ca3c96984b6c139ae7/element {"using": "css selector", "value": "[id=\"su\"]"}
+2021-05-08 16:14:46,132 connectionpool.py DEBUG  _make_request  http://127.0.0.1:65507 "POST /session/1555d330f02fc2ca3c96984b6c139ae7/element HTTP/1.1" 200 88
+2021-05-08 16:14:46,132 remote_connection.py DEBUG  _request  Finished Request
+2021-05-08 16:14:46,133 remote_connection.py DEBUG  _request  POST http://127.0.0.1:65507/session/1555d330f02fc2ca3c96984b6c139ae7/element/8688b9cb-8bae-41a1-b5d4-42f3f92a9d19/click {"id": "8688b9cb-8bae-41a1-b5d4-42f3f92a9d19"}
+2021-05-08 16:14:46,185 connectionpool.py DEBUG  _make_request  http://127.0.0.1:65507 "POST /session/1555d330f02fc2ca3c96984b6c139ae7/element/8688b9cb-8bae-41a1-b5d4-42f3f92a9d19/click HTTP/1.1" 200 14
+2021-05-08 16:14:46,185 remote_connection.py DEBUG  _request  Finished Request
+2021-05-08 16:14:46,185 ui.py INFO  wait  正在等待
+2021-05-08 16:14:49,185 ui.py INFO  on_click  正在定位xpath元素，元素值为//*[@id="1"]/h3/a/em,进行点击
+2021-05-08 16:14:49,185 remote_connection.py DEBUG  _request  POST http://127.0.0.1:65507/session/1555d330f02fc2ca3c96984b6c139ae7/element {"using": "xpath", "value": "//*[@id=\"1\"]/h3/a/em"}
+2021-05-08 16:14:49,196 connectionpool.py DEBUG  _make_request  http://127.0.0.1:65507 "POST /session/1555d330f02fc2ca3c96984b6c139ae7/element HTTP/1.1" 200 88
+2021-05-08 16:14:49,197 remote_connection.py DEBUG  _request  Finished Request
+2021-05-08 16:14:49,197 remote_connection.py DEBUG  _request  POST http://127.0.0.1:65507/session/1555d330f02fc2ca3c96984b6c139ae7/element/bcfa510f-2caf-4c82-9ec6-13555fde50b7/click {"id": "bcfa510f-2caf-4c82-9ec6-13555fde50b7"}
+2021-05-08 16:14:49,264 connectionpool.py DEBUG  _make_request  http://127.0.0.1:65507 "POST /session/1555d330f02fc2ca3c96984b6c139ae7/element/bcfa510f-2caf-4c82-9ec6-13555fde50b7/click HTTP/1.1" 200 14
+2021-05-08 16:14:49,265 remote_connection.py DEBUG  _request  Finished Request
+2021-05-08 16:14:49,265 ui.py INFO  wait  正在等待
+2021-05-08 16:14:52,266 ui.py INFO  close  关闭浏览器
+2021-05-08 16:14:52,266 remote_connection.py DEBUG  _request  DELETE http://127.0.0.1:65507/session/1555d330f02fc2ca3c96984b6c139ae7 {}
+2021-05-08 16:14:52,312 connectionpool.py DEBUG  _make_request  http://127.0.0.1:65507 "DELETE /session/1555d330f02fc2ca3c96984b6c139ae7 HTTP/1.1" 200 14
+2021-05-08 16:14:52,312 remote_connection.py DEBUG  _request  Finished Request
